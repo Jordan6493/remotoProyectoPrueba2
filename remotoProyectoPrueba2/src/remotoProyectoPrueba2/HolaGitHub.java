@@ -6,6 +6,7 @@ public class HolaGitHub {
 		// TODO Auto-generated method stub
 		while(true){
 			System.out.print("Hola GitHub");
+			return;
 		}
 
 	}
